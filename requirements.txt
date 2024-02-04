@@ -2,7 +2,5 @@ openai
 langchain
 langchain-openai
 flask
-chromadb
 gunicorn
 python-dotenv
-sqlite3
