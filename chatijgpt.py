@@ -69,8 +69,8 @@ def get_bot_response():
     
     return result['answer']
 
-if __name__ == "__main__":
-    app.run()
+#if __name__ == "__main__":
+#    app.run()
 
 
 #while True:
