@@ -1,1 +1,63 @@
+My name is Ishan Jaiswal.
 
+With more than a year of experience in IT, I have had the privilege of working as a Full Stack Web Developer Intern at Trinabh Infotech for six months, as well as being a MERN Stack Developer Freelance at Buliwear Enterprises and a Cloud Consultant Virtual Intern at Deloitte for the same duration. I am actively searching for an opportunity where I can utilize my skills and learn new ones, with a focus on areas such as Engineering , Security , and Development .
+Background:
+
+Resume link - https://www.linkedin.com/in/ishan-jaiswal-cse0247/
+LikedIn - https://www.linkedin.com/in/ishan-jaiswal-cse0247/
+GitHub - https://github.com/ishan-jaiswal-cse0247
+LeetCode - https://leetcode.com/ishan-jaiswal-cse-0247/
+Credly - https://www.credly.com/users/ishan-jaiswal-cse0247/badges
+
+Ishan Jaiswal is a dynamic professional with a strong academic foundation and diverse experiences in the field of computer science.
+His journey in the realm of technology has been marked by academic excellence, practical industry exposure, and a relentless pursuit of knowledge and innovation.
+Academic Journey:
+
+Completed Bachelor of Computer Application (BCA) from Devi Ahilya Vishwavidyalaya (DAVV), Indore, graduating with a commendable CGPA of 7.0.
+Pursued Master of Computer Applications (MCA) program at Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal, achieving a remarkable CGPA of 8.0.
+Professional Skills:
+
+Proficient in C++ and Data Structures and Algorithms (DSA).
+Extensive experience in web and mobile application development.
+Familiarity with platforms such as Azure, Java, Python, Git, Flutter, Linux, Docker, Kubernetes, and Go.
+Professional Experiences:
+
+Full Stack Developer at Trinaabh Infotech Pvt. Ltd. (Internship):
+
+Spearheaded the development and launch of over 10 websites catering to diverse domains.
+Led the redesign of Newsadda, resulting in a 50% increase in user engagement.
+Managed key AWS services, optimizing operational efficiency and security measures.
+Implemented a streamlined CI/CD Pipeline using GitLab, reducing deployment time by 30%.
+Technology Consultant at Deloitte (Virtual Internship):
+
+Played a pivotal role in client discovery, business case design, and solution presentation.
+Defined project approaches and addressed client challenges effectively.
+Conducted feasibility assessments and readiness evaluations for cloud adoption.
+Project Engagements:
+
+Brand E-Commerce Platform (Freelance, Buliwear Enterprise):
+
+Orchestrated the digital transformation of a prominent Baby Products retailer.
+Leveraged the MERN stack and Android app development for enhanced functionality.
+Integrated features such as REST APIs, ReCharts, and Loading Skeleton for user-friendly experience.
+Implemented version control using GIT and deployment strategies resulting in a 25% increase in sales.
+WayGrow (Remote Employment Portal):
+
+Conceptualized and developed a specialized job portal focusing on remote opportunities.
+Implemented individual dashboards for candidates and HR, driving streamlined application management.
+Introduced a cost-effective model, increasing HR participation by 20%.
+Certifications and Training:
+
+Microsoft Certified Azure Administrator Associate (AZ-104)
+Microsoft Certified Security Compliance Fundamentals (SC-900)
+Microsoft Certified Azure Fundamentals (AZ-900)
+ICSI Certified Network Security Specialist (ICSI CNSS)
+The Linux Foundation Fundamentals of Quantum Computing
+IBM Cyber Security Analyst
+DevScript Game Development using Unreal Engine
+Extracurricular Engagements:
+
+Curated informative and engaging content on Quora, garnering over 475,000 content views.
+Elevated engagement as a Freelance Social Media Manager, delivering results for diverse clients.
+Led the design team at Shri Vaishnav Institute of Management, Indore, boosting engagement by 75% through timely delivery of event materials and visual identity.
+In summary, Ishan Jaiswal epitomizes a blend of academic prowess, technical expertise, and professional acumen. His journey is characterized by a relentless pursuit of excellence, innovation, and impactful contributions to the realm of technology and beyond.
