@@ -4,3 +4,4 @@ langchain-openai
 flask
 chroma
 gunicorn
+python-dotenv
