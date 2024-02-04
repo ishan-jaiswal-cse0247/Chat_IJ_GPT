@@ -5,4 +5,4 @@ flask
 gunicorn
 python-dotenv
 chromadb
-sqlite3>=3.35.0,<4.0
+sqlite>=3.35.0
