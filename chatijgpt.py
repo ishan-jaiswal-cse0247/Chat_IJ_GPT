@@ -10,10 +10,11 @@ from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain.indexes import VectorstoreIndexCreator
 from langchain.indexes.vectorstore import VectorStoreIndexWrapper
 from langchain_community.llms import OpenAI
-from langchain_community.vectorstores import Chroma
+#from langchain_community.vectorstores import Chroma
+
+#import constants constraints.APIKEY
 
 load_dotenv()
-
 #Only to remove some unnecessary warnings 
 import warnings
 warnings.filterwarnings('ignore')
@@ -34,8 +35,8 @@ if len(sys.argv) > 1:
   query = sys.argv[1]
 if PERSIST and os.path.exists("persist"):
   print("Reusing index...\n")
-  vectorstore = Chroma(persist_directory="persist", embedding_function=OpenAIEmbeddings())
-  index = VectorStoreIndexWrapper(vectorstore=vectorstore)
+#  vectorstore = Chroma(persist_directory="persist", embedding_function=OpenAIEmbeddings())
+#  index = VectorStoreIndexWrapper(vectorstore=vectorstore)
 else:
   loader = TextLoader("data/data.txt") # Use this line if you only need data.txt
   #loader = DirectoryLoader("data/")
