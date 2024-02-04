@@ -4,3 +4,4 @@ langchain-openai
 flask
 gunicorn
 python-dotenv
+chromadb
